@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Lucas Mauro Santos 👋
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LucasMSnts)](https://github.com/LucasMSnts)
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Mauro%20Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-mauro-santos-66b630132/)](https://www.linkedin.com/in/lucas-mauro-santos-66b630132/)
-[![Gmail Badge](https://img.shields.io/badge/-Email-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas_de_mauro@hotmail.com)](mailto:lucas_de_mauro@hotmail.com)
+[![Outlook Badge](https://img.shields.io/badge/-Email-blue?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:lucas_de_mauro@hotmail.com)](mailto:lucas_de_mauro@hotmail.com)
 
 <!--
 **LucasMSnts/LucasMSnts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
