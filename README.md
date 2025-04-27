@@ -1,8 +1,8 @@
 ### Hi there, I'm Lucas Mauro Santos 👋
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LucasMSnts)](https://github.com/LucasMSnts)
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Mauro%20Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-mauro-santos-66b630132/)](https://www.linkedin.com/in/lucas-mauro-santos-66b630132/)
-[![Outlook Badge](https://img.shields.io/badge/-Email-blue?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:lucas_de_mauro@hotmail.com)](mailto:lucas_de_mauro@hotmail.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasMSnts)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-mauro-santos-66b630132/)
+[![Email](https://img.shields.io/badge/email-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas_de_mauro@hotmail.com)
 
 <!--
 **LucasMSnts/LucasMSnts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMSnts&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMSnts&layout=compact&theme=dark">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasMSnts&theme=github_dark" alt="Lucas Mauro Santos's GitHub Stats"/>
 </div>
